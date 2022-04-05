@@ -54,4 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanthebest&show_icons=true&locale=en&hide=issues,contribs&theme=tokyonight " alt="hasanthebest" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanthebest&" alt="hasanthebest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanthebest&theme=tokyonight_duo" alt="hasanthebest" /></p>
