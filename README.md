@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanthebest&label=Profile%20views&color=0e75b6&style=flat" alt="hasanthebest" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanthebest" alt="hasanthebest" /></a> </p>
-
 - 🌱 I’m currently mastering **Typescript, Node and Express**
 
 - 👨‍💻 All of my projects are available at [https://hasanthebest.github.io/css3-spa/](https://hasanthebest.github.io/css3-spa/)
