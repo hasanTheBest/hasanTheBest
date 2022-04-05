@@ -13,22 +13,30 @@
 
 <h3 align="left">Solace to share:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=al-quran-js&theme=vue-dark)](https://github.com/hasanTheBest/al-quran-js)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=try-recipes&theme=tokyonight )](https://github.com/hasanTheBest/try-recipes)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=css3-clock&theme=nightowl)](https://github.com/hasanTheBest/css3-clock)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=Al-Quran&theme=vue-dark)](https://github.com/hasanTheBest/Al-Quran)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=fruity-facts&theme=nightowl)](https://github.com/hasanTheBest/fruity-facts)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=read-alquran&theme=vue-dark)](https://github.com/hasanTheBest/read-alquran)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=js-wall-clock&theme=nightowl)](https://github.com/hasanTheBest/js-wall-clock)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=css3-spa&theme=nightowl)](https://github.com/hasanTheBest/css3-spa)
+<a href="https://github.com/hasanTheBest/al-quran-js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=al-quran-js&theme=vue-dark" />
+</a>
+<a href="https://github.com/hasanTheBest/try-recipes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=try-recipes&theme=tokyonight" />
+</a>
+<a href="https://github.com/hasanTheBest/css3-clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=css3-clock&theme=nightowl" />
+</a>
+<a href="https://github.com/hasanTheBest/Al-Quran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=Al-Quran&theme=vue-dark" />
+</a>
+<a href="https://github.com/hasanTheBest/fruity-facts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=fruity-facts&theme=nightowl" />
+</a>
+<a href="https://github.com/hasanTheBest/read-alquran">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=read-alquran&theme=vue-dark" />
+</a>
+<a href="https://github.com/hasanTheBest/js-wall-clock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=js-wall-clock&theme=tokyonight" />
+</a>
+<a href="https://github.com/hasanTheBest/css3-spa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanTheBest&repo=css3-spa&theme=nightowl" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +52,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanthebest&show_icons=true&locale=en&theme=radical" alt="hasanthebest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanthebest&show_icons=true&locale=en&theme=tokyonight " alt="hasanthebest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanthebest&show_icons=true&locale=en&hide=issues,contribs&theme=tokyonight " alt="hasanthebest" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanthebest&" alt="hasanthebest" /></p>
